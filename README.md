@@ -19,4 +19,8 @@ Go to your browser and run
 
 	http://localhost:3000/
 
+
+###Current status
+Tested in Google Chrome v -37.0.2062.124
+
 	
