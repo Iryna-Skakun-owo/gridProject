@@ -12,6 +12,6 @@ Start the project: (e.g. using the Command Prompt, navigate to the parent direct
 	
 Go to your browser and run… 
 
-	C:\Projects\gridProject> node bin/www http://localhost:3000/
+	http://localhost:3000/
 
 	
