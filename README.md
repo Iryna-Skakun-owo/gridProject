@@ -10,6 +10,13 @@ Project made using:
 3) [Bootstrap framework](http://getbootstrap.com/)
 
 ### Run
+Install node modules (e.g. using the Command Prompt, navigate to the node_modules directory)
+
+	C:\Projects\gridProject\node_modules> npm install sqlite3
+	C:\Projects\gridProject\node_modules> npm install fs
+	C:\Projects\gridProject\node_modules> npm install url
+
+
 Start the project: (e.g. using the Command Prompt, navigate to the parent directory and type `node bin/www`)
 
 	C:\Projects\gridProject> node bin/www
